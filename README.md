@@ -43,36 +43,3 @@ Flutter Developer • Dart Lover • UI Designer 🚀
 
 </div>
 
----
-
-## 💻 My Skills in Dart
-
-```dart
-class About extends Mariam {
-
-  final mySkills = {
-
-    "Mobile Development": {
-      "Flutter",
-      "Dart"
-    },
-
-    "UI / UX": {
-      "Flutter UI",
-      "Figma Design"
-    },
-
-    "Backend & Tools": {
-      "Firebase",
-      "Git",
-      "VS Code"
-    },
-
-    "Soft Skills": {
-      "Problem Solving",
-      "Teamwork",
-      "Communication"
-    }
-
-  };
-}
