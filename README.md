@@ -45,4 +45,8 @@ class About extends Mariam {
   };
 }
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariam682&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam682&theme=tokyonight" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam682&layout=compact&theme=tokyonight" width="48%"/> </div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mariam682&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam682&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam682&layout=compact&theme=tokyonight" width="48%"/>
+</div>
