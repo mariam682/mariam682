@@ -8,7 +8,6 @@ Flutter Developer • Dart Lover • UI Designer 🚀
 
 <p>
   <a href="https://www.linkedin.com/in/mariam-elmowafy/">LinkedIn</a> • 
-  <a href="https://mariam-portfolio.com">Portfolio</a>
 </p>
 
 </div>
