@@ -1,11 +1,13 @@
 <div align="center">
 
-<h2>Hi 👋 I'm Mariam Elmowafy</h2>
-Flutter Developer • Dart Lover • UI Designer 🚀  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="150"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="120"/>
+<h2>Hi 👋 I'm Mariam Elmowafy</h2>
+
+Flutter Developer • Dart Lover • UI Designer 🚀
 
 </div>
+
 
 ---
 
