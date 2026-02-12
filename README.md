@@ -25,7 +25,7 @@ Flutter Developer • Dart Lover • UI Designer 🚀
 
 ---
 
-## 📊 GitHub Stats & 📫 Connect with Me
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -34,12 +34,5 @@ Flutter Developer • Dart Lover • UI Designer 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam682&theme=tokyonight" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam682&layout=compact&theme=tokyonight" width="48%"/>
 
-<!-- Connect with Me -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariam-elmowafy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mariam-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:mariam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
 
-</div>
 
