@@ -8,10 +8,9 @@ Flutter Developer • Dart Lover • UI Designer 🚀
 
 </div>
 
-
 ---
 
-### 🚀 Tools & Technologies I Use
+## 🚀 Tools & Technologies I Use
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -45,3 +44,5 @@ class About extends Mariam {
 
   };
 }
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariam682&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam682&theme=tokyonight" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam682&layout=compact&theme=tokyonight" width="48%"/> </div>
