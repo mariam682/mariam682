@@ -6,6 +6,11 @@
 
 Flutter Developer • Dart Lover • UI Designer 🚀
 
+<p>
+  <a href="https://www.linkedin.com/in/mariam-elmowafy/">LinkedIn</a> • 
+  <a href="https://mariam-portfolio.com">Portfolio</a>
+</p>
+
 </div>
 
 ---
@@ -20,6 +25,28 @@ Flutter Developer • Dart Lover • UI Designer 🚀
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats & 📫 Connect with Me
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mariam682&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam682&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam682&layout=compact&theme=tokyonight" width="48%"/>
+
+<!-- Connect with Me -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mariam-elmowafy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mariam-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:mariam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+</div>
+
+---
+
+## 💻 My Skills in Dart
 
 ```dart
 class About extends Mariam {
@@ -40,13 +67,13 @@ class About extends Mariam {
       "Firebase",
       "Git",
       "VS Code"
+    },
+
+    "Soft Skills": {
+      "Problem Solving",
+      "Teamwork",
+      "Communication"
     }
 
   };
 }
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mariam682&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam682&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam682&layout=compact&theme=tokyonight" width="48%"/>
-</div>
